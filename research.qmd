@@ -16,6 +16,7 @@ To estimate the effects of the PRH-SS merger I build a structural model of publi
 the expected value they create. Based on these acquistions, publishers then compete in prices downstream and consumers make purchases. 
 
 ## Gender-based Price Discrimination  
+
 [📄 PDF](assets/papers/machado_pinktax.pdf){target="_blank"}
 This paper investigates gender-based price disparities in the deodorant market. First, I show that products targeted to women tend to have higher prices than similar products
  targeting men. Using a structural demand model, I quantify the extent to which price gaps arise from differences in marginal costs, portfolio composition, and consumer price 
