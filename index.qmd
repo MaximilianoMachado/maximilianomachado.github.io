@@ -11,6 +11,8 @@ format: html
 
 <!-- Bio Text -->
 <div>
+<title>Maximiliano Machado – PhD (c), Rotman School of Management, UofT</title>
+<h1>Maximiliano Machado – PhD (c), Rotman School of Management, UofT</h1>
 
 # Welcome
 
