@@ -1,9 +1,10 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
-  title: "Maxi Machado"
+  title: "Maximiliano Machado – PhD(c) Economics, Rotman School of Management, UofT"
+  description: "Maximiliano Machado is interested in topics of Industrial Organization, Microeconomics and Applied Econometrics"
   navbar:
     left:
       - text: "Home"
