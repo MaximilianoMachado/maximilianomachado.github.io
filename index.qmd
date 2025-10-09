@@ -1,5 +1,5 @@
 ---
-title: " "
+title: ""
 about:
   template: trestles
   image: images/maxi.jpg
