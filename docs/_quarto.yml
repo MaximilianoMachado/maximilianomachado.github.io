@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Maxi Machado"
+  navbar:
+    background: white
+    foreground: black
+    border: false
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "CV"
+        href: cv_May2025.pdf
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
