@@ -3,13 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "Maximiliano Machado – PhD(c) Economics, Rotman School of Management, UofT"
-  description: "Maximiliano Machado is interested in topics of Industrial Organization, Microeconomics and Applied Econometrics"
+  title: "Maximiliano Machado"
   navbar:
+    background: white
+    foreground: "#111"
+    border: false
     left:
       - text: "Home"
-        file: index.qmd
+        href: index.qmd
       - text: "Research"
-        file: research.qmd
+        href: research.qmd
       - text: "CV"
-        href: cv_May2025.pdf 
+        href: cv_May2025.pdf
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
