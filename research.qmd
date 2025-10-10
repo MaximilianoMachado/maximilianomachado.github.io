@@ -27,7 +27,7 @@ This paper investigates gender-based price disparities in the deodorant market. 
      style="text-decoration:none; margin-right:1em;">
      SSRN
   </a>
-  <a href="https://maximilianomachado.github.io/assets/papers/pink_tax_slides.pdf"
+  <a href="https://maximilianomachado.github.io/papers/pink_tax_slides.pdf"
      style="text-decoration:none;">
      Slides
   </a>
