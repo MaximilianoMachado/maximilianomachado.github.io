@@ -22,8 +22,16 @@ This paper investigates gender-based price disparities in the deodorant market. 
  sensitivity. I find that nearly all of the observed price gap is attributable to cost differences, not firms’ pricing strategies. Simulating a counterfactual policy mandating 
  gender price parity, I show that such type of regulation can unintentionally reduce consumer welfare for women and increase profits for dominant firms. These results suggest 
  that gender-parity policies targeting prices, absent cost considerations, may have unintended and uneven consequences across consumers and firms.
-
-[📄 PDF](assets/papers/machado_pinktax.pdf){target="_blank"}
+<p style="margin-top:0.5em;">
+  <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5399073"
+     style="text-decoration:none; margin-right:1em;">
+     SSRN
+  </a>
+  <a href="https://maximilianomachado.github.io/assets/papers/pink_tax_slides.pdf"
+     style="text-decoration:none;">
+     Slides
+  </a>
+</p>
 
 ## Uneven Firms’ Innovation Persistence: Policy Mix Implications from Uruguay, *submitted* (with Carlos Bianchi).
 
