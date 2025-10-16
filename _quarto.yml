@@ -4,6 +4,7 @@ project:
 
 website:
   title: "Maximiliano Machado"
+  favicon: images/favicon.png
   navbar:
     background: white
     foreground: "#111"
