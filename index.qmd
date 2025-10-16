@@ -21,7 +21,7 @@ about:
 
 # Welcome
 
-I’m a PhD candidate in Economics at the Rotman School of Management, University of Toronto.  
+I’m a PhD candidate in Economics at the Rotman School of Management, University of Toronto, supervised by [Victor Aguirregabiria](https://sites.google.com/view/victoraguirregabiriaswebsite/home), El Hadi Caoui, and Heski Bar-Isaac.  
 My research focuses on Industrial Organization, with a special interest in market power. In my job market paper, I examine the effects of market concentration in the publishing industry, with a focus on both monopsony and monopoly power.
 
 I completed both my undergraduate and Master’s studies in Economics at the Universidad de la República in Uruguay.
