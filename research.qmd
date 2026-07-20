@@ -43,7 +43,7 @@ This paper investigates gender-based price disparities in the deodorant market. 
   </a>
 </p>
 
-### When Context Matters: Uneven Firms’ Innovation Persistence in Developing Countries. Evidence from Uruguay, *submitted* (with [Carlos Bianchi](https://iecon.fcea.udelar.edu.uy/es/integrantes/docentes/item/bianchi-carlos.html)).
+### When Context Matters: Uneven Firms’ Innovation Persistence in Developing Countries. Evidence from Uruguay (with [Carlos Bianchi](https://iecon.fcea.udelar.edu.uy/es/integrantes/docentes/item/bianchi-carlos.html)).
 
 <details>
 <summary>Abstract</summary>
@@ -64,6 +64,7 @@ interpretation of innovation as a self-efficient process.
      style="text-decoration:none; margin-right:1em;">
      SSRN
   </a>
+  Submitted
 </p>
 # Work in Progress
 
