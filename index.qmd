@@ -21,7 +21,7 @@ about:
 
 # Welcome
 
-I’m a PhD candidate in Economics at the Rotman School of Management, University of Toronto, supervised by [Victor Aguirregabiria](https://sites.google.com/view/victoraguirregabiriaswebsite/home), [El Hadi Caoui](https://elhadicaoui.github.io/), and [Heski Bar-Isaac](https://sites.google.com/site/heskibarisaac/home).
+I’m a PhD candidate in Economics at the Rotman School of Management, University of Toronto, supervised by [Victor Aguirregabiria](https://sites.google.com/view/victoraguirregabiriaswebsite/home), [El Hadi Caoui](https://elhadicaoui.github.io/), [Heski Bar-Isaac](https://sites.google.com/site/heskibarisaac/home), and [Yao Luo](https://sites.google.com/site/luo8yao).
 <br><br>
 My research focuses on Industrial Organization and Applied Microeconomics, with a special interest in Competition Policy. In my job market paper, I examine the effects of market concentration in the publishing industry, with a focus on both monopsony and monopoly power.
 <br><br>
