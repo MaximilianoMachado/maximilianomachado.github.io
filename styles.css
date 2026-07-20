@@ -1,1 +1,33 @@
 /* css styles */
+
+/* Collapsible paper abstracts */
+details.abstract-toggle {
+  margin: 0.35em 0 0.75em;
+}
+details.abstract-toggle > summary {
+  cursor: pointer;
+  font-weight: 600;
+  color: #2c3e50;
+  list-style: none;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  user-select: none;
+}
+details.abstract-toggle > summary::-webkit-details-marker {
+  display: none;
+}
+details.abstract-toggle > summary::before {
+  content: "\25B6";           /* ▶ */
+  font-size: 0.75em;
+  transition: transform 0.15s ease;
+}
+details.abstract-toggle[open] > summary::before {
+  transform: rotate(90deg);   /* ▼ */
+}
+details.abstract-toggle > summary:hover {
+  color: #1a5276;
+}
+details.abstract-toggle > p {
+  margin-top: 0.5em;
+}
