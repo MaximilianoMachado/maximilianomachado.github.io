@@ -15,7 +15,7 @@ website:
       - text: "Research"
         href: research.qmd
       - text: "CV"
-        href: cv_May2025.pdf
+        href: cv_machado.pdf
 
 format:
   html:

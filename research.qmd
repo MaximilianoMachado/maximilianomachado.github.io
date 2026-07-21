@@ -4,7 +4,7 @@ format: html
 
 # Working Papers
 
-## Monopsony Power in the Publishing Industry
+## Fewer Buyers, Higher Pay? Monopsony and Product Market Power in the U.S. Publishing Industry (JMP)
 
 <details>
 <summary>Abstract</summary>
@@ -19,7 +19,7 @@ the expected value they create. Based on these acquistions, publishers then comp
 
 </details>
 
-## Gender-based Price Discrimination
+## Gender-Based Price Differences: The Case of Deodorants
 
 <details>
 <summary>Abstract</summary>
@@ -68,7 +68,7 @@ interpretation of innovation as a self-efficient process.
 </p>
 # Work in Progress
 
-Competition in Live-Streaming Platforms (with [Regina Seibel](https://reginaseibel.github.io/))
+Splitting the Crowd: Network Effects and Welfare Implications of Platform Competition (with [Regina Seibel](https://reginaseibel.github.io/))
 
 <details>
 <summary>Abstract</summary>
@@ -77,7 +77,7 @@ This paper estimates the magnitude of network effects in highly concentrated dig
 
 </details>
 
-Effects of Prizes on Author Readership (with [Yakov Bart](https://damore-mckim.northeastern.edu/people/yakov-bart/), [Samsun Knight](https://www.samsunknight.com/), [Julianna Spahr](https://cssh.northeastern.edu/faculty/juliana-spahr/) and [Stephanie Young](https://cssh.northeastern.edu/faculty/stephanie-young/))
+Does Top-Level Diversity Trickle Down? Evidence from U.S. Literary Prizes (with [Yakov Bart](https://damore-mckim.northeastern.edu/people/yakov-bart/), [Samsun Knight](https://www.samsunknight.com/), [Julianna Spahr](https://cssh.northeastern.edu/faculty/juliana-spahr/) and [Stephanie Young](https://cssh.northeastern.edu/faculty/stephanie-young/))
 
 <details>
 <summary>Abstract</summary>
@@ -86,7 +86,7 @@ Does diversifying prize-winners diversify the market? This idea motivates a larg
 
 </details>
 
-Who Captures the Subsidy? Pass-Through of Fuel-Price Stabilization under Market Power
+Insuring Consumers Against World Energy Shocks: Pass-Through, Market Power, and the Design of Fuel-Price Stabilization
 
 
 # Pre-PhD Publications
