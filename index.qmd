@@ -25,4 +25,6 @@ I’m a PhD candidate in Economics at the Rotman School of Management, Universit
 <br><br>
 My research focuses on Industrial Organization and Applied Microeconomics, with a special interest in Competition Policy. In my job market paper, I examine the effects of market concentration in the publishing industry, with a focus on both monopsony and monopoly power.
 <br><br>
+Other topics of my research include gender-based price discrimination (the pink tax), competition and network effects in digital platforms, and the design of policy interventions such as fuel-price stabilization.
+<br><br>
 I completed both my undergraduate and Master’s studies in Economics at the Universidad de la República in Uruguay.
