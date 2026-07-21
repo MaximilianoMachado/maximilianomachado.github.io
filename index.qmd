@@ -10,7 +10,7 @@ about:
       href: "mailto:maxi.machado@mail.utoronto.ca"
     - icon: github
       text: GitHub
-      href: "https://github.com/maxi-machado"
+      href: "https://github.com/MaximilianoMachado"
     - icon: linkedin
       text: LinkedIn
       href: "https://ca.linkedin.com/in/maximiliano-machado-goncalves-a96b24110"
