@@ -13,6 +13,13 @@ In 2022, a U.S. federal court blocked the merger of Penguin Random House (PRH) a
 
 </details>
 
+<p style="margin-top:0.5em;">
+  <a href="https://maximilianomachado.github.io/jmp_Machado.pdf"
+     style="text-decoration:none;">
+     Working paper
+  </a>
+</p>
+
 ## Gender-Based Price Differences: The Case of Deodorants
 
 <details>
