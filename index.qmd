@@ -2,7 +2,7 @@
 title: ""
 about:
   template: trestles
-  image: images/picture.jpeg
+  image: images/picture_market.jpg
   image-shape: rounded
   links:
     - icon: envelope
